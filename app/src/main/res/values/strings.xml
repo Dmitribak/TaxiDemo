@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TaxiDemo</string>
+
+    <string name="Forgot_pass_title">Забыли пароль?</string>
+    <string name="Forgot_get_pass">Получить пароль</string>
+    <string name="Registration_title">Регистрация</string>
+    <string name="Registration_errorsText">Неверный номер телефона</string>
+
+    <string name="InApp_title">Авторизация</string>
+    <string name="InApp_phone">Телефон (999)999-99-99</string>
+    <string name="InApp_password">Пароль</string>
+    <string name="InApp_forgot_password">Забыли пароль?</string>
+    <string name="InApp_registration">Регистрация</string>
+    <string name="InApp_LogIn">Войти</string>
+</resources>
